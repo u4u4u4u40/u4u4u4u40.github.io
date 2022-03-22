@@ -24,7 +24,7 @@ body {
 <body> 
 <div id="info">
 GameProgrammingHW<br>
-ｾﾇｸｹ: E3B14 ｩmｦW: ｪL牾ｳﾍ<br>
+學號: E3B14 姓名: 林鈺凱<br>
 
 </div>
 <div id="hw">
